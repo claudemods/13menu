@@ -1,6 +1,6 @@
 13menu forked from https://store.kde.org/p/2286877 and changed to suit my needs for plasma 6.6
 
-download through kde widget store or download from pling and place in /home/$USER/.local/share/plasma/plasmoids/
+download through kde widget store with name 13menu or download from pling with link https://www.pling.com/p/2323039/ and place in /home/$USER/.local/share/plasma/plasmoids/
 
 configure method right click default application menu and select show alternatives select 13menu
 
