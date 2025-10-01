@@ -5,3 +5,6 @@ download through kde widget store or download from pling and place in /home/$USE
 configure method right click default application menu and select show alternatives select 13menu
 
 to configure sizes location ect simply drag the corners of the menu once open
+
+
+<img width="1280" height="800" alt="1000016194" src="https://github.com/user-attachments/assets/97a83e03-8f30-477e-8d75-26a08ce6bf01" />
